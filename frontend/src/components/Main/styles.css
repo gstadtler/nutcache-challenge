@@ -1,0 +1,17 @@
+.navigation-menu {
+	margin: 20px 0 50px;
+}
+
+.info-title {
+  background: #7ce0d3;
+}
+
+.employee-info {
+	text-align: center;
+}
+
+.employee-info .action-buttons {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
